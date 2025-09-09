@@ -50,7 +50,7 @@ P.S.: o painel está incompleto, seguindo em produção (atualiação: 09/09/202
 
 ---
 
-✍️ **Autor:** Pedro Paulo Rocha de Andrade
-📞 **Contato:** +55 (85) 989959274
-🌐 **LinkedIn:** https://www.linkedin.com/in/pdropaulora
+✍️ **Autor:** Pedro Paulo Rocha de Andrade  
+📞 **Contato:** +55 (85) 989959274  
+🌐 **LinkedIn:** https://www.linkedin.com/in/pdropaulora  
 🚀 Projeto desenvolvido para análise exploratória e visualização interativa de dados da Uber.  
