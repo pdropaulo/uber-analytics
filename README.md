@@ -27,8 +27,7 @@ O objetivo é explorar e visualizar **padrões de viagens da Uber**, trazendo in
 P.S.: o painel está incompleto, seguindo em produção (atualiação: 09/09/2025)
 
 **--> Overall:**
-(<img width="997" height="650" alt="image" src="https://github.com/user-attachments/assets/73d99a52-8eb4-47b2-87a8-eecb138e1be4" />
-)  
+<img width="997" height="650" alt="image" src="https://github.com/user-attachments/assets/73d99a52-8eb4-47b2-87a8-eecb138e1be4" />
 
 **--> Tipo de veículo:**
 
