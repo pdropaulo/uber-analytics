@@ -1,7 +1,7 @@
 # 🚖 Uber Ride Analytics Dashboard  
 
 ### Visualização do proposto pelo Kaggle (que foi produzido no power BI):
-![Dashboard Preview](https://drive.google.com/file/d/1EG_Q2V8j2S-D6jS2jYSpyrSeptFn0vpQ/view?usp=sharing)
+[Visualização do modelo proposto](https://drive.google.com/file/d/1EG_Q2V8j2S-D6jS2jYSpyrSeptFn0vpQ/view?usp=sharing)
 
 ## 📊 Sobre o Projeto  
 
