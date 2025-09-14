@@ -33,6 +33,7 @@ P.S.: o painel está incompleto, seguindo em produção (atualiação: 13/09/202
 <img width="978" height="650" alt="image" src="https://github.com/user-attachments/assets/b4b7022b-51da-4049-b5c9-19b7da24cd3a" />
 
 **--> Receita:**
+<img width="996" height="660" alt="image" src="https://github.com/user-attachments/assets/15a6aff8-b5d8-4998-8a20-e57ca6a22e23" />
 
 **--> Cancelamentos:**
 
