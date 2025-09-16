@@ -24,20 +24,28 @@ O objetivo é explorar e visualizar **padrões de viagens da Uber**, trazendo in
 
 ## 🖼️ Demonstração  
 
-P.S.: o painel está incompleto, seguindo em produção (atualiação: 13/09/2025)
+**--> Página inicial:**
+<img width="750" height="497" alt="1757980871882" src="https://github.com/user-attachments/assets/b57bf194-9d92-4371-8651-e6003b500da3" />
+
 
 **--> Overall:**
-<img width="994" height="660" alt="image" src="https://github.com/user-attachments/assets/f8c3be27-6497-4a0b-afdb-630e860f3b37" />
+<img width="747" height="500" alt="1757980871840" src="https://github.com/user-attachments/assets/4a4f7d81-1fed-40bc-8b8b-f0f17df82eff" />
+
 
 **--> Tipo de veículo:**
-<img width="978" height="650" alt="image" src="https://github.com/user-attachments/assets/b4b7022b-51da-4049-b5c9-19b7da24cd3a" />
+<img width="745" height="492" alt="1757980871851" src="https://github.com/user-attachments/assets/db57cedb-18cf-4d0d-8938-85e93ff7ffb3" />
+
 
 **--> Receita:**
-<img width="996" height="660" alt="image" src="https://github.com/user-attachments/assets/15a6aff8-b5d8-4998-8a20-e57ca6a22e23" />
+<img width="747" height="513" alt="1757980871832" src="https://github.com/user-attachments/assets/4d9eec16-24cb-44b8-aad5-9c83ff263c0e" />
+
 
 **--> Cancelamentos:**
+<img width="748" height="499" alt="1757980871869" src="https://github.com/user-attachments/assets/9baa1419-f16b-41db-b671-806d201af6c1" />
+
 
 **--> Avaliações:**
+<img width="745" height="494" alt="1757980871861" src="https://github.com/user-attachments/assets/1d898189-f2e1-475d-a7b3-d74fc41c612e" />
 
 
 ## 🔗 Acesse o Dashboard  
