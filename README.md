@@ -50,7 +50,7 @@ O objetivo é explorar e visualizar **padrões de viagens da Uber**, trazendo in
 
 ## 🔗 Acesse o Dashboard  
 
-👉 [Clique aqui para visualizar no Tableau Public](https://public.tableau.com/app/profile/pedro.andrade2292/viz/Uberdashboard_17574463791640/Overall?publish=yes)  
+👉 [Clique aqui para visualizar no Tableau Public](https://public.tableau.com/app/profile/pedro.andrade2292/viz/Uberdashboard_17574463791640/Uber) 
 
 ## 🛠️ Tecnologias Utilizadas  
 
