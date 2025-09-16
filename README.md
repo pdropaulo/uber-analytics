@@ -24,27 +24,27 @@ O objetivo é explorar e visualizar **padrões de viagens da Uber**, trazendo in
 
 ## 🖼️ Demonstração  
 
-**--> Página inicial:**
+**--> Página inicial:**  
 <img width="750" height="497" alt="1757980871882" src="https://github.com/user-attachments/assets/b57bf194-9d92-4371-8651-e6003b500da3" />
 
 
-**--> Overall:**
+**--> Overall:**  
 <img width="747" height="500" alt="1757980871840" src="https://github.com/user-attachments/assets/4a4f7d81-1fed-40bc-8b8b-f0f17df82eff" />
 
 
-**--> Tipo de veículo:**
+**--> Tipo de veículo:**  
 <img width="745" height="492" alt="1757980871851" src="https://github.com/user-attachments/assets/db57cedb-18cf-4d0d-8938-85e93ff7ffb3" />
 
 
-**--> Receita:**
+**--> Receita:**  
 <img width="747" height="513" alt="1757980871832" src="https://github.com/user-attachments/assets/4d9eec16-24cb-44b8-aad5-9c83ff263c0e" />
 
 
-**--> Cancelamentos:**
+**--> Cancelamentos:**  
 <img width="748" height="499" alt="1757980871869" src="https://github.com/user-attachments/assets/9baa1419-f16b-41db-b671-806d201af6c1" />
 
 
-**--> Avaliações:**
+**--> Avaliações:**  
 <img width="745" height="494" alt="1757980871861" src="https://github.com/user-attachments/assets/1d898189-f2e1-475d-a7b3-d74fc41c612e" />
 
 
